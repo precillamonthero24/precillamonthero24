@@ -79,8 +79,8 @@ St. Agnes PG Studies (Autonomous), Mangalore University
 📬 **Let's Connect**
 
 - 📧 Email: [precillamonthero@gmail.com](mailto:precillamonthero@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/precilla-monthero](https://in.linkedin.com/in/precilla-monthero)
-- 🌍 Portfolio: [GitHub Pages Portfolio](https://<your-username>.github.io/<repo-name>/) <!-- update once live -->
+- 💼 LinkedIn: [linkedin.com/in/precilla-monthero](https://www.linkedin.com/in/precilla-monthero/)
+- 🌍 Portfolio: [GitHub Pages Portfolio](https://precillamonthero24.github.io/portfolio/) <!-- update once live -->
 
 ---
 
